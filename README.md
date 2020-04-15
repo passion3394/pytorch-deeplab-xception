@@ -4,6 +4,9 @@
 
 **Update on 2018/11/24. Release newest version code, which fix some previous issues and also add support for new backbones and multi-gpu training. For previous code, please see in `previous` branch**  
 
+### laymu's experiments
+this repo is out of date, I have trained serval models, but the IoUs are not good.
+
 ### TODO
 - [x] Support different backbones
 - [x] Support VOC, SBD, Cityscapes and COCO datasets
